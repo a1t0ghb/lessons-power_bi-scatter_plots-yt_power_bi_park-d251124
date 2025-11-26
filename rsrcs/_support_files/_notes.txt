@@ -1,0 +1,11 @@
+YT:
+https://www.youtube.com/watch?v=EMpebK1PzIE
+
+URL (Wayback Machine):
+https://web.archive.org/web/20240522085612/https://forum.enterprisedna.co/t/data-visualization-workout-002-contractors-profit-analysis/35039
+
+Power BI:
+https://app.powerbi.com/view?r=eyJrIjoiOTk2MGUzMWItYWUzYS00NmIzLTlmN2QtYmYzZDk1YzIxY2JlIiwidCI6IjUwMjQ2NTExLTdjNDQtNDAzNi04YjQxLTJiNjlhMWUwZjI4YiIsImMiOjl9
+
+Data:
+https://forum.enterprisedna.co/uploads/short-url/3xnDJBX7YSiSeOuR04uWCZu84b0.xlsx
