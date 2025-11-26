@@ -9,3 +9,6 @@ https://app.powerbi.com/view?r=eyJrIjoiOTk2MGUzMWItYWUzYS00NmIzLTlmN2QtYmYzZDk1Y
 
 Data:
 https://forum.enterprisedna.co/uploads/short-url/3xnDJBX7YSiSeOuR04uWCZu84b0.xlsx
+
+YT (aux: toggle button using bookmarks):
+https://www.youtube.com/watch?v=5QMpc5fUV2I
